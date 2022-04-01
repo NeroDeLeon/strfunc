@@ -6,6 +6,7 @@
 #include <time.h>
 #include <sys/types.h>
 
+
 char* mystrlwr (char *string);
 char* mystrupr (char *string);
 char* mystrrev (char *string);
